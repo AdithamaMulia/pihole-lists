@@ -31787,8 +31787,6 @@
 ||sentry.tapsvc.io.cdn.cloudflare.net^
 ||static.ads.triptease.io.cdn.cloudflare.net^
 ||plog.xbp.io.cdn.cloudflare.net^
-||bam.nr-data.net.cdn.cloudflare.net^
-||mobile-collector.eu01.nr-data.net.cdn.cloudflare.net^
 ||footprint.network.cdn.cloudflare.net^
 ||matomo.epo.org.cdn.cloudflare.net^
 ||csp-reporting.cloudflare.com^
@@ -40468,7 +40466,6 @@
 ||creative-serving.com^
 ||creative-stat1.com^
 ||creativecarrer.com^
-||creativecdn.com^
 ||analytics.creativecircle.com^
 ||ads6.creativecirclemedia.com^
 ||bennettspringbanners.creativecirclemedia.com^
@@ -99517,8 +99514,6 @@
 ||nqvqyxxsxupai.top^
 ||nqwewkgcd.com^
 ||nqwjmb.biz^
-||nr-data.com^
-||nr-data.net^
 ||analytics.nr-ops.net^
 ||metric.nr-ops.net^
 ||metrics.nr-ops.net^

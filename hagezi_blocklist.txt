@@ -31777,7 +31777,6 @@
 ||js-sec.indexww.com.cdn.cloudflare.net^
 ||media6degrees.com.cdn.cloudflare.net^
 ||countly-api.mysugr.com.cdn.cloudflare.net^
-||newrelic.com.cdn.cloudflare.net^
 ||analytics-q10v.onrender.com.cdn.cloudflare.net^
 ||sentry.tapsvc.com.cdn.cloudflare.net^
 ||tynt.com.cdn.cloudflare.net^
@@ -34657,11 +34656,6 @@
 ||godurban.co.za^
 ||gold-traders.co.uk^
 ||track.gomammoth.co.uk^
-||ampcid.google.co.id^
-||ampcid.google.co.in^
-||ampcid.google.co.th^
-||ampcid.google.co.uk^
-||ampcid.google.co.ve^
 ||id.google.co.cr^
 ||id.google.co.id^
 ||id.google.co.il^
@@ -97700,7 +97694,6 @@
 ||track.newprogrammatic.com^
 ||newrb.pro^
 ||newregazedatth.com^
-||newrelic.com^
 ||newrik.ru^
 ||newripple.org^
 ||newrotatormarch23.bid^
